@@ -1,8 +1,14 @@
-# Unanchored
+<p align="center">
+  <img src="profile/logo.png" width="150" />
+</p>
 
-I’m a programmer building things for Polytoria. 
+<h1 align="center">Unanchored</h1>
 
-This organization hosts my external tools, game scripts, and prototypes.
+<p align="center">
+  I’m a programmer building things for Polytoria.
+</p>
 
 ---
-*Anchored = false*
+<p align="center">
+  <i>Anchored = false</i>
+</p>
