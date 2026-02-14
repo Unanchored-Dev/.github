@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" width="150" />
+  <img src="profile/PolyApp.png" width="150" />
 </p>
 
 <h1 align="center">Unanchored</h1>
